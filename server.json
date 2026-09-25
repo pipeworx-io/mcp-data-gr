@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/data-gr",
   "title": "Data Gr",
   "description": "Greece Open Data (data.gov.gr) CKAN MCP.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/data-gr",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-data-gr",
