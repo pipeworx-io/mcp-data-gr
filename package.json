@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-gr",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Greece Open Data (data.gov.gr) CKAN MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "data-gr",
     "gatewaySlug": "data-gr",
-    "sourceHash": "v1-4300482afb4a9d5ee50c657a499c2aa32f1bcfcb7e6200c83aa7cf8494ebda5e",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-b1cc757c10af52dcf751ac58207a7cefa3bd10820b9e027fc98c07d8e3d04862",
+    "sourceCommit": "5ce1a05186d46479e23865c66bdb8579d8de445e"
   }
 }
